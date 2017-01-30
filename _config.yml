@@ -1,14 +1,14 @@
 # Site
 title:              Ted Aronson
 bio:                'Game designer, programmer, rocket surgeon'
-description:        "I'm a game designer, a programmer, and certified rocket surgeon*. I like making things and making people happy, and I particularly like making games for health and education. I live in Boston, MA, where I box, geek out about space stuff, and occasionally make pretty excellent pork ribs."
+description:        "Hi! I'm Ted. I'm a game designer, a programmer, and certified rocket surgeon*. I like making things and making people happy, and I particularly like making games for health and education. I live in Boston, MA, where I box, geek out about space stuff, and occasionally make pretty excellent pork ribs."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+url:                https://tedw4rd.github.io/
 
 # Jekyll
 permalink:          /:title/
