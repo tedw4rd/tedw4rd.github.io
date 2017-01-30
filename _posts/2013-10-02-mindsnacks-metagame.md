@@ -3,6 +3,7 @@ layout: post
 title:  "MindSnacks Metagame"
 excerpt: "A compelling metagame to motivate language learning"
 feature: assets/img/portfolio/mindsnacks/Mindsnacks3.png
+preview: assets/img/portfolio/mindsnacks/preview.png
 project: true
 portfolio: true
 tag:

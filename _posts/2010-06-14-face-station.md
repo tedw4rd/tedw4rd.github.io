@@ -3,6 +3,7 @@ layout: post
 title:  "Face Station"
 excerpt: "Flash games for autism therapy"
 feature: assets/img/portfolio/facestation/Penn2.png
+preview: assets/img/portfolio/facestation/preview.png
 project: true
 portfolio: true
 tag:
