@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Face Station"
-date:   2016-04-06
 excerpt: "Flash games for autism therapy"
 feature: assets/img/portfolio/facestation/Penn2.png
 project: true
@@ -27,7 +26,7 @@ The Face Station games were Flash games that could be played in a browser.  They
 The Face Station games were developed as part of an experimental therapy regimen for children with Autism Spectrum Disorders.
 
 <figure>
-	<a href="assets/img/portfolio/facestation/Pennsylvania.png"></a>
+	<a href="/assets/img/portfolio/facestation/Pennsylvania.png"></a>
 	<figcaption><i>The Adventures of Pennsylvania Jones</i>, a game in the Face Station suite</figcaption>
 </figure>
 
