@@ -16,7 +16,7 @@ comments: false
 
 ### With [The Center for Autism Research](http://www.research.chop.edu/programs/car/)
 
-##### (June 2009 to June 2010)
+##### June 2009 to June 2010
 
 
 #### What platform is it on?  Can I play?
@@ -36,7 +36,7 @@ Each of the games featured widely different gameplay.  For example, The Adventur
 All of the games integrated a successful intervention therapy for young children that tried to address and prevent some of the social symptoms of ASD.  The therapy required kids to identify pictures of people based on their faces, and to identify the emotions of people in other pictures.  All of the Face Station games involved some form of matching mechanic that required the players to do those identifications.
 
 <figure>
-	<a href="/assets/img/portfolio/facestation/TrainZoom.png"><img src="/assets/img/portfolio/facestation/TrainZoom.png"/></a>
+	<a href="/assets/img/portfolio/facestation/DrFace.png"><img src="/assets/img/portfolio/facestation/DrFace.png"/></a>
 	<figcaption><i>Dr Face</i>, another game in the suite where players combine faces to create potions</figcaption>
 </figure>
 
@@ -57,10 +57,15 @@ Finally, I composed music for Pennsylvania Jones, [TrainZoom](https://www.youtub
 
 <figure>
 	<a href="/assets/img/portfolio/facestation/TrainZoom.png"><img src="/assets/img/portfolio/facestation/TrainZoom.png"/></a>
-	<figcaption><i>TrainZoom</i>, one of several games in the suite that I composed music for</figcaption>
+	<figcaption><i>TrainZoom</i>, one of several games that I composed music for</figcaption>
 </figure>
 
 #### What happened to the games?
 The Face Station games are all a part of a research study funded by the Robert Wood Johnson Foundation.  The project is still ongoing.  If you'd like more information about the research, you can find it on [the Center for Autism Research's website](http://www.centerforautismresearch.com/trial_interventions/computerized_gaming/).
 
 The project also produced a conference paper that was presented at the International Meeting for Autism Research in 2011.  In it, the authors talk about the process behind the development of the games, and the rationale behind each one.  The paper was called "FaceStation: Computer Games That Train Face Perception and Reward Circuitries In Autism", and you can read its abstract on [ResearchGate](https://www.researchgate.net/publication/268145055_FaceStation_Computer_Games_That_Train_Face_Perception_and_Reward_Circuitries_In_Autism).
+
+<figure>
+	<a href="/assets/img/portfolio/facestation/Invaders.png"><img src="/assets/img/portfolio/facestation/Invaders.png"/></a>
+	<figcaption>I assisted with the design of several other games in the suite, including <i>Face Invaders</i>, by Salim Zayat</figcaption>
+</figure>
