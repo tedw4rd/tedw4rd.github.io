@@ -26,7 +26,7 @@ The Face Station games were Flash games that could be played in a browser.  They
 The Face Station games were developed as part of an experimental therapy regimen for children with Autism Spectrum Disorders.
 
 <figure>
-	<a href="assets/img/portfolio/facestation/Pennsylvania.png"><img src="assets/img/portfolio/facestation/Pennsylvania.png"/></a>
+	<a href="/assets/img/portfolio/facestation/Pennsylvania.png"><img src="/assets/img/portfolio/facestation/Pennsylvania.png"/></a>
 	<figcaption><i>The Adventures of Pennsylvania Jones</i>, a game in the Face Station suite</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ Each of the games featured widely different gameplay.  For example, The Adventur
 All of the games integrated a successful intervention therapy for young children that tried to address and prevent some of the social symptoms of ASD.  The therapy required kids to identify pictures of people based on their faces, and to identify the emotions of people in other pictures.  All of the Face Station games involved some form of matching mechanic that required the players to do those identifications.
 
 <figure>
-	<a href="assets/img/portfolio/facestation/TrainZoom.png"><img src="assets/img/portfolio/facestation/TrainZoom.png"/></a>
+	<a href="/assets/img/portfolio/facestation/TrainZoom.png"><img src="/assets/img/portfolio/facestation/TrainZoom.png"/></a>
 	<figcaption><i>Dr Face</i>, another game in the suite where players combine faces to create potions</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ All of the games integrated a successful intervention therapy for young children
 The Face Station project was conceived of by [Dr. Robert Schultz](http://www.research.chop.edu/programs/car/our_team/details/?cat=1&amp;id=7) of the Center for Autism Research.  Our team consisted of 4 game developers and several child psychologists and imaging specialists.  Each game was the result of significant collaboration, both amongst the game developers and with the scientific staff.  In particular, the game developers consulted frequently with Dr. Susan Faja (an expert on our particular intervention therapy) and Dr. Gregor Kohls (an expert in reward systems) to ensure the games were providing the proper therapy.
 
 <figure>
-	<a href="assets/img/portfolio/facestation/Penn3.png"><img src="assets/img/portfolio/facestation/Penn3.png"/></a>
+	<a href="/assets/img/portfolio/facestation/Penn3.png"><img src="/assets/img/portfolio/facestation/Penn3.png"/></a>
 	<figcaption>I was the primary designer and developer on <i>The Adventures of Pennsylvania Jones</i></figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ I also created design documents for several other games that could integrate the
 Finally, I composed music for Pennsylvania Jones, [TrainZoom](https://www.youtube.com/watch?v=mkoc8rEF4bc&amp;index=2&amp;list=PLMcpVDVDe28jqmZgBAoyx7SQHc1AfPSfX), and [T-Rex Trample](https://www.youtube.com/watch?v=qXvqQezcVAM&amp;list=PLMcpVDVDe28jqmZgBAoyx7SQHc1AfPSfX).
 
 <figure>
-	<a href="assets/img/portfolio/facestation/TrainZoom.png"><img src="assets/img/portfolio/facestation/TrainZoom.png"/></a>
+	<a href="/assets/img/portfolio/facestation/TrainZoom.png"><img src="/assets/img/portfolio/facestation/TrainZoom.png"/></a>
 	<figcaption><i>TrainZoom</i>, one of several games in the suite that I composed music for</figcaption>
 </figure>
 
