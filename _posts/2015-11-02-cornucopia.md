@@ -2,7 +2,7 @@
 layout: post
 title:  "Cornucopia"
 excerpt: "Strategy game to teach the impact of climate change"
-feature: assets/img/portfolio/cornucopia/Cornucopia8.png
+feature: assets/img/portfolio/cornucopia/Cornucopia7.png
 project: true
 portfolio: true
 tag:
