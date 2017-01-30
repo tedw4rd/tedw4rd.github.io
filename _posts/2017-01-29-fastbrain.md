@@ -14,7 +14,7 @@ tag:
 comments: false
 ---
 
-### With [Funomena](http://www.funomena.com) / [MIND Institute](http://www.ucdmc.ucdavis.edu/mindinstitute/)</em>
+### With [Funomena](http://www.funomena.com) / [MIND Institute](http://www.ucdmc.ucdavis.edu/mindinstitute/)
 
 ##### Under active development since May 2014
 
