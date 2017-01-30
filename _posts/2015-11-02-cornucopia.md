@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cornucopia"
-excerpt: "Strategy game to teach the impact of climate change"
+excerpt: "A strategy game to teach the impact of climate change"
 feature: assets/img/portfolio/cornucopia/Cornucopia7.png
 preview: assets/img/portfolio/cornucopia/preview.png
 project: true
