@@ -25,7 +25,11 @@ layout: compress
                     {% for post in site.posts %} 
                         {% if post.portfolio %}
                     <ul>
-                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
+                        <li class="wow fadeInLeft" data-wow-duration="1.5s"
+                            {% if post.feature %}
+                            style="background: url('/{{ post.feature }}'); background-color: rbga(0,0,0,0.6);"
+                            {% endif %}
+                        >
                             <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
                             <p>{{ post.excerpt }}</p>
                             <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
