@@ -44,7 +44,7 @@
 			font-weight: bolder;
 			@include font-rem(16);
 			@media #{$notsmall} {
-				padding-right: 50%
+				padding-right: 50%;
 			}
 		}
 	}
