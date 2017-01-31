@@ -1,37 +1,21 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
+title: Hi! I'm Ted.
+tags: [about]
 date: 2016-03-21
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+Hi! I'm Ted. I'm a game designer, a programmer, and certified rocket surgeon. I like making things and making people happy. I particularly like making games for health and education. In my spare time, I box, geek out about space stuff, and occasionally make pretty excellent pork ribs.
 
-## Preview
+If you're here to check out some of the software tools I've developed, welcome! You can check out my [GitHub page](https://github.com/tedw4rd), or head over to the [Projects section](/projects).
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+If you're here to read about the games I've made, you can also find them in the [Projects section](/projects). I've also set aside a few that I particularly like and put them in [my Portfolio](/portfolio).
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+If you'd like to read some of my blatherings about programming, game design, science, and whatever else I talk about, I may eventually put some content in [the Blog](/posts).
 
-## Getting Started
+If you'd like to read my resume, [here it is](/assets/resume.pdf)
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+If you'd like to contact me about contract work (I occasionally take game design and Unity development contracts), hit me up at hi @ tedaronson dot com.
+
+And if you're wondering how I got my rocket surgery certification, feel free to reach out on [Twitter](http://twitter.com/tedw4rd) or Discord @ tedw4rd#6835
