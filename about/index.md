@@ -6,7 +6,12 @@ date: 2016-03-21
 comments: false
 ---
 
-Hi! I'm Ted. I'm a game designer, a programmer, and certified rocket surgeon. I like making things and making people happy. I particularly like making games for health and education. In my spare time, I box, geek out about space stuff, and occasionally make pretty excellent pork ribs.
+I'm a game designer, a programmer, and certified rocket surgeon. I like making things and making people happy. I particularly like making games for health and education. In my spare time, I box, geek out about space stuff, and occasionally make pretty excellent pork ribs.
+
+<figure>
+	<a href="/assets/img/drive.png"><img src="/assets/img/drive.png"/></a>
+	<figcaption>I also like roadtrips</figcaption>
+</figure>
 
 If you're here to check out some of the software tools I've developed, welcome! You can check out my [GitHub page](https://github.com/tedw4rd), or head over to the [Projects section](/projects).
 
@@ -22,6 +27,6 @@ And if you're wondering how I got my rocket surgery certification, feel free to 
 
 
 <figure>
-	<a href="/assets/img/huh.png"><img src="/assets/huh.png"/></a>
+	<a href="/assets/img/huh.png"><img src="/assets/img/huh.png"/></a>
 	<figcaption></figcaption>
 </figure>
