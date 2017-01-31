@@ -19,3 +19,9 @@ If you'd like to read my resume, [here it is](/assets/resume.pdf)
 If you'd like to contact me about contract work (I occasionally take game design and Unity development contracts), hit me up at hi @ tedaronson dot com.
 
 And if you're wondering how I got my rocket surgery certification, feel free to reach out on [Twitter](http://twitter.com/tedw4rd) or Discord @ tedw4rd#6835
+
+
+<figure>
+	<a href="/assets/img/huh.png"><img src="/assets/huh.png"/></a>
+	<figcaption></figcaption>
+</figure>
