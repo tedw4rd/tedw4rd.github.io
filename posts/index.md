@@ -5,4 +5,4 @@ excerpt: "A List of Posts"
 comments: false
 ---
 
-Sometimes you just need to say something.
+Official notices from the Department of Rocket Surgery
