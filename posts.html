@@ -33,7 +33,10 @@ make-smaller-titles: true
       {% endif %}
 
           <li>
-            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            <a href="{{ post.url | prepend: site.baseurl }}">
+            <span class="img-rounded img-responsive"  style="background-image:url({{ post.preview }})">{{ post.title }}
+            </span>
+            </a>
           </li>
       {% if forloop.last %}
         </ul>

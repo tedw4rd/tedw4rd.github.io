@@ -1,6 +1,6 @@
 ---
 layout: index
-title: Projects
+title: Ted Aronson
 comments: false
 ---
 
