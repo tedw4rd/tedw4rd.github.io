@@ -1,8 +1,7 @@
 ---
-layout: project
+layout: projects
 title: Projects
-excerpt: "Some projects I've worked on"
 comments: false
 ---
 
-I've been making games and software tools since 2010. I especially like working with Python, Javascript, and the Unity game engine. Here's some stuff I've made for you to use and play with.
+I enjoy designing games of all kinds, but I find educational and therapeutic games to be especially fun and rewarding. These are a few games that I'm particularly proud of.
