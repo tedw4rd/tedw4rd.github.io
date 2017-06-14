@@ -317,7 +317,6 @@ ul {
 			li {
 				margin-bottom: 20px;
 				font-size: 24px;
-				padding: 5px;
 
 				a:hover {
 					color: $light-medium;
@@ -332,6 +331,10 @@ ul {
 
 				p {
 					color: $darker;
+				}
+
+				span {
+					padding: 5px;
 				}
 
 			}
@@ -578,6 +581,11 @@ ul {
 				padding-right: 30px;
 				padding-top: 40px;
 				padding-bottom: 20px;
+			}
+
+			small {
+				font-size: 75%;
+				font-style: italic;
 			}
 
 			.series {
