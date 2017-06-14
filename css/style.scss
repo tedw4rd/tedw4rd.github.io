@@ -317,6 +317,7 @@ ul {
 			li {
 				margin-bottom: 20px;
 				font-size: 24px;
+				padding: 5px;
 
 				a:hover {
 					color: $light-medium;
@@ -327,6 +328,10 @@ ul {
 					margin-top: -10px;
 					padding-top: 0px;
 					color: $light-medium;
+				}
+
+				p {
+					color: $darker;
 				}
 
 			}

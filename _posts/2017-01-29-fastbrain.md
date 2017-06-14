@@ -2,8 +2,8 @@
 layout: post
 title:  "Fastbrain"
 excerpt: "An action game for cognitive neurotherapy"
-feature: assets/img/portfolio/fastbrain/Fastbrain1.png
-preview: assets/img/portfolio/fastbrain/preview.png
+feature: /assets/img/portfolio/fastbrain/Fastbrain1.png
+preview: /assets/img/portfolio/fastbrain/preview.png
 project: true
 portfolio: true
 tag:
