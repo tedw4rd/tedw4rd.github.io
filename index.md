@@ -13,7 +13,7 @@ I like to make games! You can see a few in my [Projects page](/projects).
 Sometimes I make and sell wooden things! Check out [Firewater Fabrication](https://instagram.com/firewaterfabrication\) for that.
 
 
-Eventually I might start blogging at [Department of Rocket Surgery](https://www.departmentofrocketsurgery.com), but who knows?
+Eventually I might start blogging at [Department of Rocket Surgery](http://www.departmentofrocketsurgery.com), but who knows?
 
 
 Sometimes I take contract work for Unity development and game design. If you're interested, send me <a href="mailto:{{ site.email }}" target="_blank" rel="noopener noreferrer">an email</a>!
